@@ -1,0 +1,33 @@
+.btn {
+  transition: all 0.3s ease-in-out;
+  background-color: #057;
+  color: white;
+  border: none;
+  padding: 15px 25px;
+  width : 500px;
+  height : 150px;
+}
+
+.btn:hover {
+  background-color: #750;
+}
+
+.btnVerde  {
+  background-color: #82b74b;
+  transition: all 0.3s ease-in-out;
+  color: white;
+  border: none;
+  padding: 15px 25px;
+  width : 500px;
+  height : 150px;
+}
+
+.btnRojo  {
+  background-color: #d64161;
+  transition: all 0.3s ease-in-out;
+  color: white;
+  border: none;
+  padding: 15px 25px;
+  width : 500px;
+  height : 150px;
+}
