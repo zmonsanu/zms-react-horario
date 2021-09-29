@@ -31,7 +31,7 @@ const botones = (intervalos.map(intervalo => {
   }}> {intervalo.rango} </Button>
 }))
 
-//función que si el valor de contador supera 10 lo inicializa a 0 , en caso contrario suma 1
+//función que si el valor de contador supera 5 lo inicializa a 0 , en caso contrario suma 1
 // y devuelve una cadena con el valor del contador
 //así mismo cambia el estilo del botón pulsado a : verde (queda ocupado) o rojo (si ya se ha superado el contador)
 const clickButton = (e) => {
